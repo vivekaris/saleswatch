@@ -108,7 +108,8 @@ void loop() {
  
   HTTPClient http;
   Serial.println("Sending data");
-  http.begin("http://192.168.1.102/saleswatch/report.php"); //url of your webservice
+  http.begin("http://192.168.31.62/saleswatch/month.php"); //url of your webservice
+  //http.begin("http://192.168.31.62/saleswatch/today.php"); //url of your webservice
   http.addHeader("Content-Type", "application/json");
   
   

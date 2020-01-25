@@ -1,10 +1,7 @@
 {
-    "name": "developer",
+    "name": "vivek kumar kanaujia",
     "require-dev": {
         "automattic/woocommerce": "2.0.1"
-    },
-    "require": {
-        "mike42/escpos-php": "^2.1",
-        "picqer/php-barcode-generator": "^0.3.0"
     }
+    
 }
