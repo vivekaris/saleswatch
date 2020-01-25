@@ -1,7 +1,7 @@
 
 # saleswatch
 
-# saleswatch for woocommerce store sales tracking daily and mothly.
+# saleswatch for woocommerce store sales tracking daily and monthly.
 
 
 ## after copy this code on server run composer.phar update or composer.phar update
